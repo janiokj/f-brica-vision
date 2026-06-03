@@ -1,0 +1,746 @@
+{
+  "tasks": [
+    {
+      "name": "ELABORAÇÃO DO PROJETO",
+      "resp": "FLAUSTRO",
+      "prog": 1,
+      "start": "2025-09-03",
+      "end": "2026-01-30"
+    },
+    {
+      "name": "APROVAÇÃO DO PROJETO (ALVARÁ)",
+      "resp": "FLAUSTRO",
+      "prog": 0.8,
+      "start": "2025-10-01",
+      "end": "2026-01-30"
+    },
+    {
+      "name": "AQUISIÇÃO DO PRÉ MOLDADO",
+      "resp": "NOSOSTROS",
+      "prog": 1,
+      "start": "2025-10-10",
+      "end": "2025-10-30"
+    },
+    {
+      "name": "APROVAÇÃO DE PROJETO PRÉ FABRICAR",
+      "resp": "FABRICATE",
+      "prog": 1,
+      "start": "2025-10-20",
+      "end": "2025-12-19"
+    },
+    {
+      "name": "PROJETO ELÉTRICO",
+      "resp": "P22",
+      "prog": 0.8,
+      "start": "2025-10-15",
+      "end": "2026-04-30"
+    },
+    {
+      "name": "TERRAPLANAGEM",
+      "resp": "ITOUPAVA",
+      "prog": 1,
+      "start": "2025-11-15",
+      "end": "2025-12-10"
+    },
+    {
+      "name": "ESTACAS POR HÉLICE CONTINUA",
+      "resp": "AUDE",
+      "prog": 1,
+      "start": "2026-01-05",
+      "end": "2026-01-30"
+    },
+    {
+      "name": "FUNDAÇÃO BLOCOS E SPDA SUBTERRÂNIO",
+      "resp": "FABRICATE",
+      "prog": 1,
+      "start": "2026-02-02",
+      "end": "2026-03-31"
+    },
+    {
+      "name": "MURO E RAMPA PCD",
+      "resp": "FLAUSTRO",
+      "prog": 1,
+      "start": "2026-01-26",
+      "end": "2026-03-13"
+    },
+    {
+      "name": "CISTERNA",
+      "resp": "FLAUSTRO",
+      "prog": 1,
+      "start": "2026-01-09",
+      "end": "2026-04-17"
+    },
+    {
+      "name": "ADEQUAÇÃO PLUVIAL - SUBTERRÂNEO",
+      "resp": "FLAUSTRO",
+      "prog": 0.3,
+      "start": "2026-02-02",
+      "end": "2026-02-27"
+    },
+    {
+      "name": "CONCRETAGEM PISO E RAMPA",
+      "resp": "FLAUSTRO",
+      "prog": 1,
+      "start": "2026-04-14",
+      "end": "2026-05-20"
+    },
+    {
+      "name": "SUBSTAÇÃO E COMPRESSORES",
+      "resp": "FLAUSTRO",
+      "prog": 0.3,
+      "start": "2026-03-02",
+      "end": "2026-04-03"
+    },
+    {
+      "name": "MONTAGEM DA ESTRUTURA PRÉ MOLDADO",
+      "resp": "FABRICATE",
+      "prog": 0.65,
+      "start": "2026-04-06",
+      "end": "2026-05-29"
+    },
+    {
+      "name": "BANHEIROS",
+      "resp": "FLAUSTRO",
+      "prog": 0,
+      "start": "2026-03-16",
+      "end": "2026-04-20"
+    },
+    {
+      "name": "REDE GERAL DE ESGOTO",
+      "resp": "FLAUSTRO",
+      "prog": 0.05,
+      "start": "2026-03-02",
+      "end": "2026-04-30"
+    },
+    {
+      "name": "MONTAGEM DA ESTRUTURA METÁLICA",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-04-27",
+      "end": "2026-05-29"
+    },
+    {
+      "name": "REDE GERAL DE ESGOTO E PLUVIAL - ETAPA 2",
+      "resp": "FLAUSTRO",
+      "prog": 0,
+      "start": "2026-07-06",
+      "end": "2026-08-14"
+    },
+    {
+      "name": "SUBSTAÇÃO E COMPRESSORES - ETAPA 2",
+      "resp": "FLAUSTRO",
+      "prog": 0,
+      "start": "2026-04-03",
+      "end": "2026-06-26"
+    },
+    {
+      "name": "BANHEIROS E MANUTENÇÃO - ETAPA 2",
+      "resp": "FLAUSTRO",
+      "prog": 0,
+      "start": "2026-05-18",
+      "end": "2026-08-28"
+    },
+    {
+      "name": "MONTAGEM DO LATERNIM",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-05-18",
+      "end": "2026-05-22"
+    },
+    {
+      "name": "MONTAGEM ALPENDRE",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-06-01",
+      "end": "2026-06-12"
+    },
+    {
+      "name": "MONTAGEM TELHAS DE FECHAMENTO",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-05-11",
+      "end": "2026-05-29"
+    },
+    {
+      "name": "MONTAGEM TELHAS DE ALPENDRE",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-06-15",
+      "end": "2026-06-30"
+    },
+    {
+      "name": "MONTAGEM TELHAS DE LANTERNIM",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-06-15",
+      "end": "2026-06-19"
+    },
+    {
+      "name": "MONTAGEM TELHAS DE COBERTURA",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-05-25",
+      "end": "2026-06-26"
+    },
+    {
+      "name": "MONTAGEM DAS CALHAS E RUFOS",
+      "resp": "FABRICATE",
+      "prog": 0,
+      "start": "2026-06-22",
+      "end": "2026-06-30"
+    },
+    {
+      "name": "PISO INTERNO",
+      "resp": "FLAUSTRO",
+      "prog": 0,
+      "start": "2026-07-01",
+      "end": "2026-08-31"
+    },
+    {
+      "name": "PISO EXTERNO",
+      "resp": "FLAUSTRO",
+      "prog": 0.35,
+      "start": "2026-08-07",
+      "end": "2026-09-30"
+    },
+    {
+      "name": "PISO EXTERNO ALPENDRE",
+      "resp": "FLAUSTRO",
+      "prog": 0,
+      "start": "2026-08-07",
+      "end": "2026-09-15"
+    },
+    {
+      "name": "AQUISIÇÃO DO PROJETO ELÉTRICO",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-05-04",
+      "end": "2026-05-08"
+    },
+    {
+      "name": "INSTALAÇÃO ELÉTRICA",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-06-15",
+      "end": "2026-12-30"
+    },
+    {
+      "name": "AQUISIÇÃO DO PROJETO DE INFRA DE TI",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-06-15",
+      "end": "2026-12-30"
+    },
+    {
+      "name": "INSTALAÇÃO DO PROJETO DE INFRA DE TI",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-06-15",
+      "end": "2026-12-30"
+    },
+    {
+      "name": "AQUISIÇÃO DA REDE PNEUMÁTICA",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-06-08",
+      "end": "2026-06-12"
+    },
+    {
+      "name": "INSTALAÇÃO DA REDE PNEUMATICA",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-07-01",
+      "end": "2026-07-21"
+    },
+    {
+      "name": "AQUISIÇÃO DOS PORTÕES",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-07-01",
+      "end": "2026-07-10"
+    },
+    {
+      "name": "INSTALAÇÃO DOS PORTÕES",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-08-01",
+      "end": "2026-10-01"
+    },
+    {
+      "name": "AQUISIÇÃO LINHA DE JATO",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-05-25",
+      "end": "2026-05-29"
+    },
+    {
+      "name": "INSTALAÇÃO DA LINHA DE JATO",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-10-19",
+      "end": "2026-11-13"
+    },
+    {
+      "name": "AQUISIÇÃO LINHA DE PINTURA",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-05-25",
+      "end": "2026-05-29"
+    },
+    {
+      "name": "INSTALAÇÃO DA CABINE DE PINTURA",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-10-19",
+      "end": "2026-11-13"
+    },
+    {
+      "name": "AQUISIÇÃO PONTE ROLANTE",
+      "resp": "?",
+      "prog": 1,
+      "start": "2026-06-08",
+      "end": "2026-06-12"
+    },
+    {
+      "name": "INSTALAÇÃO DAS PONTES ROLANTES",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-11-16",
+      "end": "2026-11-30"
+    },
+    {
+      "name": "AQUISIÇÃO LASER",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-07-01",
+      "end": "2026-07-20"
+    },
+    {
+      "name": "INSTALAÇÃO E TREINAMENTO LASER",
+      "resp": "?",
+      "prog": 0,
+      "start": "2027-01-04",
+      "end": "2027-01-30"
+    },
+    {
+      "name": "AQUISIÇÃO DOS COMPRESSORES",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-07-06",
+      "end": "2026-07-10"
+    },
+    {
+      "name": "INSTALAÇÃO DOS COMPRESSORES",
+      "resp": "?",
+      "prog": 0,
+      "start": "2026-11-03",
+      "end": "2026-11-13"
+    },
+    {
+      "name": "MOVIMENTAÇÃO E INSTALAÇÃO DE EQUIPAMENTOS",
+      "resp": "NOSOSTROS",
+      "prog": 0,
+      "start": "2026-11-23",
+      "end": "2027-01-04"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "desc": "Estrutura Pré-Moldados - 7713 m² - 100x70x12",
+      "forn_est": "FABRICATE",
+      "forn_exe": "FABRICATE",
+      "qtd": 1,
+      "valor_estimado": 66307.41111111111,
+      "valor_orcado": 0,
+      "valor_realizado": 62888.88888888889
+    },
+    {
+      "id": 2,
+      "desc": "Piso Interno + alpender",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": "7000 m²",
+      "valor_estimado": 35697.73333333333,
+      "valor_orcado": 0,
+      "valor_realizado": 32600.827444444447
+    },
+    {
+      "id": 3,
+      "desc": "Ponte Rolante",
+      "forn_est": "CSM",
+      "forn_exe": null,
+      "qtd": 3,
+      "valor_estimado": 16666.666666666668,
+      "valor_orcado": 1240000,
+      "valor_realizado": 16666.666666666668
+    },
+    {
+      "id": 4,
+      "desc": "Patío Externo - Brita/Macadame compact.",
+      "forn_est": "Itoupava",
+      "forn_exe": "Itoupava",
+      "qtd": "6000m²",
+      "valor_estimado": 4458.4,
+      "valor_orcado": 0,
+      "valor_realizado": 12133.333333333334
+    },
+    {
+      "id": 5,
+      "desc": "Piso externo - Concreto",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": "3040 m²",
+      "valor_estimado": 14205.244444444445,
+      "valor_orcado": 0,
+      "valor_realizado": 11498.066666666668
+    },
+    {
+      "id": 6,
+      "desc": "Modulo banheiros fabrica",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 2,
+      "valor_estimado": 6615.2,
+      "valor_orcado": 0,
+      "valor_realizado": 7880.111111111111
+    },
+    {
+      "id": 7,
+      "desc": "Serviço de Estacas Hélice - ",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "AUDE",
+      "qtd": "3840 metros",
+      "valor_estimado": 11664.844444444445,
+      "valor_orcado": 746550,
+      "valor_realizado": 7479.7555555555555
+    },
+    {
+      "id": 8,
+      "desc": "Cisterna",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 7354.0888888888885,
+      "valor_orcado": 0,
+      "valor_realizado": 7229.922222222222
+    },
+    {
+      "id": 9,
+      "desc": "Modulo subestação e casa de maquinas",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 3781.108888888889,
+      "valor_orcado": 0,
+      "valor_realizado": 6159.404111111111
+    },
+    {
+      "id": 10,
+      "desc": "Rede pluvial",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 2419.9333333333334,
+      "valor_orcado": 0,
+      "valor_realizado": 3759.586555555555
+    },
+    {
+      "id": 11,
+      "desc": "Rede de esgoto",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 4545.033333333334,
+      "valor_orcado": 0,
+      "valor_realizado": 3629.0222222222224
+    },
+    {
+      "id": 12,
+      "desc": "Mezanino Manuteção",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 2380.177777777778,
+      "valor_orcado": 0,
+      "valor_realizado": 2380.177777777778
+    },
+    {
+      "id": 13,
+      "desc": "Linha de vida",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 1322.2222222222222,
+      "valor_orcado": 0,
+      "valor_realizado": 1326.3333333333333
+    },
+    {
+      "id": 14,
+      "desc": "Muro de contenção ",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 1125.3145555555554,
+      "valor_orcado": 0,
+      "valor_realizado": 1125.3145555555554
+    },
+    {
+      "id": 15,
+      "desc": "Piso complementar rampa mais mureta",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 0,
+      "valor_orcado": 96280.92,
+      "valor_realizado": 602.6666666666666
+    },
+    {
+      "id": 16,
+      "desc": "Sondagem Solo",
+      "forn_est": "Gel rio sul / Marcon",
+      "forn_exe": "Marcon",
+      "qtd": "42 furos",
+      "valor_estimado": 977.7777777777778,
+      "valor_orcado": 0,
+      "valor_realizado": 1000
+    },
+    {
+      "id": 17,
+      "desc": "Simulação computacional",
+      "forn_est": null,
+      "forn_exe": "Senai",
+      "qtd": 1,
+      "valor_estimado": 777.7222222222222,
+      "valor_orcado": 0,
+      "valor_realizado": 777.7222222222222
+    },
+    {
+      "id": 18,
+      "desc": "Serviços preliminares",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": null,
+      "valor_estimado": 1593.388888888889,
+      "valor_orcado": 0,
+      "valor_realizado": 616.6044444444444
+    },
+    {
+      "id": 19,
+      "desc": "Muro de arrimo",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 0,
+      "valor_orcado": 54614,
+      "valor_realizado": 606.8222222222222
+    },
+    {
+      "id": 20,
+      "desc": "Projetos",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": null,
+      "valor_estimado": 1261.111111111111,
+      "valor_orcado": 0,
+      "valor_realizado": 511.1111111111111
+    },
+    {
+      "id": 21,
+      "desc": "Projeto de engenharia Elétrica",
+      "forn_est": "P22 Engenharia",
+      "forn_exe": "P22 Engenharia",
+      "qtd": 1,
+      "valor_estimado": 520.9,
+      "valor_orcado": 0,
+      "valor_realizado": 466.6666666666667
+    },
+    {
+      "id": 22,
+      "desc": "Serviço de terraplanagem rampa",
+      "forn_est": "Itoupava",
+      "forn_exe": "Itoupava",
+      "qtd": 1,
+      "valor_estimado": 0,
+      "valor_orcado": 36800,
+      "valor_realizado": 297.77777777777777
+    },
+    {
+      "id": 23,
+      "desc": "Serviço de terraplanagem acesso frontal novo galpão",
+      "forn_est": "Itoupava",
+      "forn_exe": "Itoupava",
+      "qtd": 1,
+      "valor_estimado": 0,
+      "valor_orcado": 60000,
+      "valor_realizado": 955.5555555555555
+    },
+    {
+      "id": 24,
+      "desc": "Mureta topo de talude",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 0,
+      "valor_orcado": 14789.19,
+      "valor_realizado": 164.32433333333333
+    },
+    {
+      "id": 25,
+      "desc": "Portões de acesso ",
+      "forn_est": "Omis",
+      "forn_exe": "Naport / J ferrosul / AXT",
+      "qtd": 12,
+      "valor_estimado": 2711.1111111111113,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 26,
+      "desc": "Movimentação e Up grade jato ",
+      "forn_est": "CMV",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 24375.466666666667,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 27,
+      "desc": "Máquina de corte a laser HLX 2560: alta velocidade",
+      "forn_est": "Yahoo",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 16666.666666666668,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 28,
+      "desc": "SPDA",
+      "forn_est": "Joclamar",
+      "forn_exe": "Joclamar",
+      "qtd": 1,
+      "valor_estimado": 1111.111111111111,
+      "valor_orcado": 95268.88,
+      "valor_realizado": 1058.543111111111
+    },
+    {
+      "id": 29,
+      "desc": "Modulo escritorio com banheiro",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": null,
+      "qtd": 3,
+      "valor_estimado": 9981.666666666666,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 30,
+      "desc": "Projeto de Preventivo",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 6803.433333333333,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 31,
+      "desc": "Linha de Pintura",
+      "forn_est": "TechSC",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 6426.448888888889,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 32,
+      "desc": "Reservatorio metálico",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 6292.888888888889,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 33,
+      "desc": "Infraestrutura e equipamentos de TI",
+      "forn_est": "Prospecta",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 3838.436111111111,
+      "valor_orcado": 369725.3,
+      "valor_realizado": 0
+    },
+    {
+      "id": 34,
+      "desc": "Infraestrutura ar comprimido",
+      "forn_est": "Quality / Raitz / Bermo",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 1888.888888888889,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 35,
+      "desc": "Compressores e rede ",
+      "forn_est": "IngeMoon e Brahma",
+      "forn_exe": null,
+      "qtd": 2,
+      "valor_estimado": 7777.777777777777,
+      "valor_orcado": 540000,
+      "valor_realizado": 0
+    },
+    {
+      "id": 36,
+      "desc": "Alvara de construção",
+      "forn_est": "2% do valor da obra",
+      "forn_exe": null,
+      "qtd": null,
+      "valor_estimado": 1333.3333333333333,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 37,
+      "desc": "Movimentação de Equipamentos",
+      "forn_est": "JP /Schumann",
+      "forn_exe": null,
+      "qtd": 1,
+      "valor_estimado": 2222.222222222222,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 38,
+      "desc": "Licenças Prefeitura e Ambiental",
+      "forn_est": null,
+      "forn_exe": null,
+      "qtd": null,
+      "valor_estimado": 0,
+      "valor_orcado": 0,
+      "valor_realizado": 0
+    },
+    {
+      "id": 39,
+      "desc": "Reforma banheiro filial",
+      "forn_est": "FLAUSTRO",
+      "forn_exe": "FLAUSTRO",
+      "qtd": 1,
+      "valor_estimado": 1206.8666666666666,
+      "valor_orcado": 103830,
+      "valor_realizado": 0
+    }
+  ],
+  "totals": {
+    "estimado": 276310.5973333332,
+    "orcado": 3357858.2899999996,
+    "realizado": 183815.2045555556
+  },
+  "projectStart": "2025-09-01",
+  "projectEnd": "2027-01-31"
+}
