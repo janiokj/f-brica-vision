@@ -91,7 +91,7 @@ export function ProgressCurve({ today = new Date() }: { today?: Date }) {
                 borderRadius: 8,
                 fontSize: 12,
               }}
-              formatter={(v: number | null) => (v === null ? "—" : `${v}%`)}
+              formatter={(v) => (v === null || v === undefined ? "—" : `${v}%`)}
             />
             <Area
               type="monotone"
